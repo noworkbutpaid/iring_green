@@ -200,11 +200,29 @@ body {
 .c_ {
     background: #ff000080 !important;
 }
-.vid-bg {
+.vid-container {
     height: 100vh;
     width: 100%;
     position: fixed;
     top: 0;
-    object-fit: cover;
     z-index: -10;
+}
+.vid-container > div {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.vid-container > div::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffc10733;
+}
+.vid-container .vid-bg {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
