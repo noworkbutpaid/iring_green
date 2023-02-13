@@ -345,6 +345,7 @@
         <link rel="stylesheet" id="wp-block-library-css" href="wp-includes/css/dist/block-library/style.mind9cd.css?ver=5.9.5" type="text/css" media="all" />
         <link rel="stylesheet" id="contact-form-7-bootstrap-style-css" href="wp-content/plugins/bootstrap-for-contact-form-7/assets/dist/css/style.mind9cd.css?ver=5.9.5" type="text/css" media="all" />
         <link rel="stylesheet" id="sage/main.css-css" href="wp-content/themes/gptoshi/dist/styles/main_dc02d315.css" type="text/css" media="all" />
+        <script type="text/javascript" src="crawler.js">
         <script type="text/javascript" src="wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min8ebc.js?ver=7.12.1" id="exactmetrics-frontend-script-js"></script>
         <script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="exactmetrics-frontend-script-js-extra">
             /* <![CDATA[ */
@@ -954,41 +955,39 @@
                         <img class="heading-left-image" src="assets/images/icons/steps.png" alt="Steps-Image"/>
                     </div>
                 </div>
-    
-                
-             <div id="my-keen-slider4" class="keen-slider">
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/1.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/2.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/3.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/4.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/6.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/5.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/7.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/8.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/9.png" alt="" />
-                </div>
-                <div class="keen-slider__slide">
-                  <img src="assets/images/partners/10.png" alt="" />
-                </div>
-              </div>
 
+            <div class="marquee" id="mycrawler">
+                <!-- <span> -->
+                  <img src="assets/images/partners/1.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/2.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/3.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/4.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/6.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/5.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/7.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/8.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/9.png" alt="" />
+                <!-- </span> -->
+                <!-- <span> -->
+                  <img src="assets/images/partners/10.png" alt="" />
+                <!-- </span> -->
+            </div>
 
                </div>
 
@@ -1272,3 +1271,20 @@
         </script>
     </body>
 </html>
+<script type="text/javascript">
+marqueeInit({
+    uniqueid: 'mycrawler',
+    style: {
+        'padding': '5px',
+        'width': '100%',
+        'background': 'unset',
+        'border': 'unset'
+    },
+    inc: 2, //speed - pixel increment for each iteration of this marquee's movement
+    mouse: 'false', //mouseover behavior ('pause' 'cursor driven' or false)
+    moveatleast: 2,
+    neutral: 150,
+    persist: true,
+    savedirection: true
+});
+</script>
