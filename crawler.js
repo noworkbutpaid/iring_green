@@ -198,7 +198,11 @@ function marqueeInit(config){
     }
     ims[i].style.display = 'inline';
     ims[i].style.verticalAlign = ims[i].style.verticalAlign || 'top';
-    ims[i].style.height = '115px';
+    if(ims[i].width == "512") {
+      ims[i].style.height = '370px';
+    } else {
+      ims[i].style.height = '115px';
+    }
     ims[i].style.width = 'auto';
     if(typeof ims[i].complete === 'boolean' && ims[i].complete)
      ic++;
