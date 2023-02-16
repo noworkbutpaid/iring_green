@@ -26,7 +26,7 @@
 * [📱The Binance Smart Chain](the-binance-smart-chain.md)
 * [🧑🏫 Meet the Team](meet-the-team.md)
 * [📒 Conclusion](conclusion.md)
-* [⏳ Timeline](timeline/README.md)
+* [⏳ Timeline](timeline.md)
   * [2023](timeline/2023/README.md)
     * [Q1](timeline/2023/q1.md)
     * [Q2](timeline/2023/q2.md)
