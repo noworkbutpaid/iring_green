@@ -10,3 +10,5 @@ GPTOSHI AI is also working on developing code generation capabilities, which wil
 * The ability to explore new and innovative solutions to real-world problems.
 * A decentralized platform that enables users to collaborate on code generation and development.
 
+<figure><img src="../../.gitbook/assets/bot80x80.png" alt=""><figcaption></figcaption></figure>
+
