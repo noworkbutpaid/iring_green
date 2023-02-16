@@ -8,4 +8,6 @@ One of the most exciting aspects of the GPTOSHI-AI image generation feature is t
 
 In conclusion, GPTOSHI-AI Image Generation is an innovative and community-driven project that provides a unique opportunity for users to explore the power of AI in image creation on the blockchain. With its focus on accessibility, innovation, collaboration, and monetization, the platform is committed to delivering real value to users and is a unique and exciting investment opportunity.
 
+<figure><img src="../../.gitbook/assets/bot80x80.png" alt=""><figcaption></figcaption></figure>
+
 \

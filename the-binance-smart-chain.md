@@ -2,7 +2,7 @@
 description: A Powerful and Growing Platform for Blockchain Development
 ---
 
-# 📈 The Binance Smart Chain
+# 📱The Binance Smart Chain
 
 The Binance Smart Chain is a powerful and growing platform for blockchain development that provides an array of tools and features for developers and users. As one of the leading blockchain platforms in the world, the Binance Smart Chain provides a high level of security, efficiency, and scalability, which makes it an ideal platform for decentralized application development.
 

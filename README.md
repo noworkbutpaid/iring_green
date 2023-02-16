@@ -8,7 +8,7 @@ description: >-
 
 GPTOSHI AI is a revolutionary new crypto project focused on delivering innovative AI-powered solutions on the Binance Smart Chain. The project is community-driven and seeks to deliver real value to users through the creation of AI-powered Dapps.
 
-<figure><img src=".gitbook/assets/Logo-main.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo512x512-2.png" alt=""><figcaption><p>GPTOSHI - AI</p></figcaption></figure>
 
 The world of AI is rapidly evolving, with new and exciting applications being developed every day. However, many of these solutions are still inaccessible to the average user due to their complexity and cost. GPTOSHI AI aims to change that by providing a decentralized platform for AI that is accessible and easy to use for everyone.
 
